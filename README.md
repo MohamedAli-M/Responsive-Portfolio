@@ -7,5 +7,4 @@
 
 Forked, adapted and added features from BedimCode repository https://github.com/bedimcode/responsive-portfolio-website-Alexa
 
-Inline-style: 
-![Banner Animation](https://https://github.com/MohamedAli-M/Responsive-Portfolio/blob/main/banner.gif "Preview :")
+![](banner.gif)
